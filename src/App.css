@@ -1,0 +1,12 @@
+.logo-animation {
+  animation: zoomInOut 2s infinite;
+}
+
+@keyframes zoomInOut {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+}
