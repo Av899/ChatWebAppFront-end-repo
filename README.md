@@ -70,6 +70,16 @@ Ensure your backend is running and update these environment variables as needed:
 - Includes responsive design breakpoints
 - Features animated route transitions
 
+##ScreenShots
+![image](https://github.com/user-attachments/assets/9268fed8-b6b7-43ed-b528-66dc30a68c95)
+![image](https://github.com/user-attachments/assets/6e2af851-e1be-4f3c-bb5f-a9917eeb3013)
+![image](https://github.com/user-attachments/assets/f261535a-e492-43b6-ab85-76c7bbd0e154)
+![image](https://github.com/user-attachments/assets/a5b171dc-1877-42c8-827d-af67c1777912)
+
+
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
