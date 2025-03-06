@@ -24,10 +24,8 @@ Modern React-based chat interface with real-time messaging capabilities and anim
 - `@stomp/stompjs` + `sockjs-client` - WebSocket communication
 - `axios` - HTTP client
 - `react-router-dom` - Routing
-- `framer-motion` - Animations
 - `emoji-picker-react` - Emoji selection
 - `react-hot-toast` - Notifications
-- `lucide-react` - Icons
 
 ## Installation
 
