@@ -5,7 +5,6 @@ Modern React-based chat interface with real-time messaging capabilities and anim
 ## Features
 
 - 💬 WebSocket-based real-time messaging (STOMP)
-- 🎨 Animated UI with Framer Motion
 - 😊 Emoji picker integration
 - 🔔 Toast notifications system
 - 🛣️ Client-side routing
